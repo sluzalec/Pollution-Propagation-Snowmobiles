@@ -60,7 +60,7 @@ If you find this code useful for your research, please cite our paper:
 TBA
 ```
 
-## Contact
+## Repository contact
 
 **Tomasz Sluzalec** - sluzalec@agh.edu.pl
 
